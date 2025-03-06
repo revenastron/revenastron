@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nirmal!
 ### 💻 Aspiring Front-End Developer | Passionate about Web Development
 
-- 🔭 I’m currently improving my skills in **Node.js & Spring Boot**
+- 🔭 I’m currently improving my skills in Backend development **Node.js & Spring Boot**
 - 🌱 Learning **API Development & Authentication**
 
 ## 🛠️ Tech Stack  
