@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Nirmal!
+### 💻 Aspiring Front-End Developer | Passionate about Web Development
 
-<!--
-**revenastron/revenastron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently improving my skills in **Node.js & Spring Boot**
+- 🌱 Learning **API Development & Authentication**
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, React.js, React Native  
+- **Backend:** Node.js, Java (Spring Boot)  
+- **Database:** MySQL, PostgreSql 
+- **Version Control:** Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ *Always learning & open to collaboration!*
