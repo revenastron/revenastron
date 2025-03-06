@@ -1,4 +1,4 @@
-Hi, I'm Nirmal!
+# 👋 Hi, I'm Nirmal!
 ### 💻 Aspiring Front-End Developer | Passionate about Web Development
 
 - 🔭 I’m currently improving my skills in **Node.js & Spring Boot**
