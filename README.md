@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nirmal!
 
-### 💻 Aspiring Front-End Developer | Passionate about Web Development
+### 💻 Aspiring Front-End Developer | Passionate about Web & mobile Development
 
 - 🖥️ Developed **responsive web applications** using React.js, Bootstrap, and custom CSS.
 - 📱 Experienced in **mobile development** using React Native.
